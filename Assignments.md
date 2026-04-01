@@ -22,8 +22,8 @@
 >
 > - [github link](https://github.com/SAKTHIVEL280/taskflow.git)
 >
-> - Deployment URL : taskflow-o44jz6bql-sakthivel280s-projects.vercel.app
->     - [deployment url link](taskflow-o44jz6bql-sakthivel280s-projects.vercel.app)
+> - Deployment URL : https://taskflow.daeq.in
+>     - [deployment url link](https://taskflow.daeq.in)
 > 
 > - Giithub pages docs - https://sakthivel280.github.io/taskflow/
 >    - [GitHub Pages Documentation URL](https://sakthivel280.github.io/taskflow/)
